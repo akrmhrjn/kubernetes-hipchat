@@ -2,6 +2,3 @@
 bin/
 *.iml
 pkg/
-#src/github.com/*
-#src/github.com/kube-hip/
-src/k8s.io
