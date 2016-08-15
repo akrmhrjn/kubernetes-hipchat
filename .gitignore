@@ -4,4 +4,4 @@ bin/
 pkg/
 src/github.com/*
 !src/github.com/kube-hip/
-src/gopkg.in
+src/k8s.io
