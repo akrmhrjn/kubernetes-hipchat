@@ -3,5 +3,5 @@ bin/
 *.iml
 pkg/
 src/github.com/*
-!src/github.com/bajratech/
+!src/github.com/kube-hip/
 src/gopkg.in
